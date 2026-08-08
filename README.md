@@ -6,7 +6,7 @@ It identifies matching skills, missing skills, strengths, weaknesses, and provid
 
 ## 🚀 Live Demo
 
-https://resume-analyzer-alpha-three-23.vercel.app/
+https://resume-analyzer-alpha-three-23.vercel.app
 
 ## 📌 Overview
 
